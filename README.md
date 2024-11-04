@@ -2,7 +2,7 @@
 
 A sleek, responsive to-do list application for managing tasks efficiently. Built using HTML, CSS, and JavaScript, this app offers a simple and interactive way to keep track of tasks.
 
-![To-Do List App Screenshot](Bildschirmfoto 2024-11-04 um 17.57.29.png)
+![App Screenshot](Bildschirmfoto 2024-11-04 um 17.57.29.png)
 
 ## 🌟 Features
 
