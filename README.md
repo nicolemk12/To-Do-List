@@ -20,7 +20,7 @@ A sleek, responsive to-do list application for managing tasks efficiently. Built
 
 ## 🛠️ How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/username/todo-app.git`
+1. **Clone the Repository**: `git clone https://github.com/nicolemk12/todo-app.git`
 2. **Open `index.html`** in your browser.
 3. Start managing your tasks!
 
